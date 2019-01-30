@@ -58,7 +58,7 @@
         <counts>
           <entry key="editorconfig" value="2" />
           <entry key="env" value="10" />
-          <entry key="gitignore" value="2" />
+          <entry key="gitignore" value="21" />
           <entry key="js" value="1" />
           <entry key="json" value="42" />
           <entry key="php" value="1703" />
@@ -71,7 +71,7 @@
           <entry key="JSON" value="42" />
           <entry key="JavaScript" value="1" />
           <entry key="PHP" value="1121" />
-          <entry key="PLAIN_TEXT" value="14" />
+          <entry key="PLAIN_TEXT" value="33" />
           <entry key="SCSS" value="8" />
         </counts>
       </usages-collector>
@@ -122,7 +122,7 @@
         <entry file="file://$PROJECT_DIR$/public/uploads/images/avatars/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="31">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -328,7 +328,7 @@
       <path value="$PROJECT_DIR$/vendor/intervention/image" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="5" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
@@ -493,15 +493,15 @@
       <updated>1548659355937</updated>
       <workItem from="1548659357157" duration="7561000" />
       <workItem from="1548724876709" duration="18506000" />
-      <workItem from="1548813772710" duration="12016000" />
+      <workItem from="1548813772710" duration="12357000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38083000" />
+    <option name="totallyTimeSpent" value="38424000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2561629" />
@@ -861,7 +861,7 @@
     <entry file="file://$PROJECT_DIR$/public/uploads/images/avatars/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="31">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
         </state>
       </provider>
     </entry>
